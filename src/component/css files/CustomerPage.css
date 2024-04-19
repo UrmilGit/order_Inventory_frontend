@@ -1,0 +1,34 @@
+.background-image {
+    background-color: #e7eaf6;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh; /* Ensure background covers the entire viewport */
+  }
+   
+  .customer-form {
+    background-color: #a2a8d3; /* Add a semi-transparent background color */
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+   
+  .customer-filter {
+  background-color:  #a2a8d3; /* Change the background color to black with some opacity */
+  color: black; /* Set text color to white for better contrast */
+  padding: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+   
+  .customer-filter button {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+ 
+.customer-form button{
+  width: 100%;
+}
+
+
+
+

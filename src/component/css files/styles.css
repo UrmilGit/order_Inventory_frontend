@@ -1,0 +1,22 @@
+/* LoginPage.css */
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+}
+.outer-container{
+ background: #a2a8d3;
+ padding-top: 6%;
+ padding-bottom: 5%;
+ height: 100vh;
+}
+.login-container {
+   max-width: 800px;
+   border: 1px solid #ccc;
+   border-radius: 5px;
+   background: #ffffff;
+   box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+   padding: 20px;
+   position: relative;
+ }

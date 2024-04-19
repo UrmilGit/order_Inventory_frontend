@@ -1,0 +1,22 @@
+.nav-item:hover .nav-link {
+  color: #fff !important;
+  background-color:#38598b;
+}
+.color-green{
+    color: #38598b;
+}
+.content{
+    width: 95%;
+}
+.rounded{
+    border-radius: 25px !important;
+    background-color: #38598b;
+    color: #fff;
+    }
+
+.rounded:hover{
+border-radius: 25px !important;
+background-color: #38598b;
+color: #fff;
+}
+
